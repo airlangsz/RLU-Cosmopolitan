@@ -1,0 +1,45 @@
+{
+  "id": "46e5bb3d-4658-4125-b1d7-63b403389fd7",
+  "name": "RLU COSMO",
+  "publisher": "Kreatif",
+  "version": "22.3.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+      {
+      "id": "448f81ff-13cf-4caf-8280-465625936875",
+      "name": "Pajak Indonesia",
+      "publisher": "Kreatif",
+      "version": "21.0.0.58"
+      },
+      {
+        "id": "63aa5c1b-6e26-4572-aa2d-8b333b3ff1a4",
+        "name": "COSMO Quality Assurance",
+        "publisher": "Cosmo Consult",
+        "version": "4.4.185506.0"
+        }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50449
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
